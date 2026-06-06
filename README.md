@@ -2,7 +2,7 @@
 
 Computer Engineering Student at DBATU, Lonere
 
-Passionate about Software Development and Web Technologies
+Passionate about Software Development and Web Technologies, 
 Currently learning Full Stack Development
 
 
