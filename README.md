@@ -1,16 +1,17 @@
 ## Hello, I'm Rugved Shedge! 👋
 
-🎓 Computer Engineering Student at DBATU, Lonere
+Computer Engineering Student at DBATU, Lonere
 
-💻 Passionate about Software Development and Web Technologies
+Passionate about Software Development and Web Technologies
 
-🌱 Currently learning Full Stack Development
+Currently learning Full Stack Development
 
-🚀 Working on projects like UniFlowCS
+Working on projects like UniFlowCS
 
-😄 Pronouns: He/Him
 
-📫 How to reach me: GitHub - @rugved293
+How to reach me: Twitter - https://x.com/RugvedShedge  LinkedIn - www.linkedin.com/in/rugved-shedge-6b016a36b
+
+
 
 ## 📊 GitHub Statistics
 
