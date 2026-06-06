@@ -54,7 +54,7 @@ A comprehensive department management system developed as a college project to s
 * Testing & Collaboration
 
 ## 📊 GitHub Statistics
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rugved293&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rugved293\&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rugved293)
