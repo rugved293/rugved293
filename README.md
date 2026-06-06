@@ -3,13 +3,15 @@
 Computer Engineering Student at DBATU, Lonere
 
 Passionate about Software Development and Web Technologies
-
 Currently learning Full Stack Development
 
-Working on projects like UniFlowCS
 
 
-How to reach me: Twitter - https://x.com/RugvedShedge  LinkedIn - www.linkedin.com/in/rugved-shedge-6b016a36b
+How to reach me: 
+
+Twitter - https://x.com/RugvedShedge  
+
+LinkedIn - www.linkedin.com/in/rugved-shedge-6b016a36b
 
 
 
