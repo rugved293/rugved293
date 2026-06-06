@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I am Rugved Shedge 👋
+How to reach me: https://x.com/RugvedShedge
 <!--
 **rugved293/rugved293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
